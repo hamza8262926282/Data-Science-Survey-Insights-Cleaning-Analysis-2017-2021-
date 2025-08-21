@@ -1,0 +1,22 @@
+# **Kaggle Data Science Survey 2017–2021 Dataset**
+
+**Dataset Title:** *Kaggle Data Science Survey 2017–2021*
+
+**Overview:**  
+This dataset aggregates the results of the Kaggle Data Science & Machine Learning Surveys conducted annually from 2017 through 2021. It provides valuable insights into trends within the data science community over time.:contentReference[oaicite:0]{index=0}
+
+**Dataset File:**  
+- `kaggle_survey_2017_2021.csv` – Contains the merged tabular data covering surveys from 2017 to 2021.:contentReference[oaicite:1]{index=1}
+
+**How to Access the Dataset:**  
+Due to GitHub’s file size limit of 25 MB, the dataset itself is not stored in this repository. Please follow one of the options below to access it:
+
+1. **Download directly from Kaggle**  
+   Visit the dataset page on Kaggle and download the `.csv` file:  
+   [Kaggle Data Science Survey 2017–2021](https://www.kaggle.com/datasets/andradaolteanu/kaggle-data-science-survey-20172021)
+
+2. **Use Kaggle CLI for direct download**  
+   If you prefer the command line, you can use the Kaggle CLI (install via `pip install kaggle`) and run:
+
+   ```bash
+   kaggle datasets download andradaolteanu/kaggle-data-science-survey-20172021 --unzip
